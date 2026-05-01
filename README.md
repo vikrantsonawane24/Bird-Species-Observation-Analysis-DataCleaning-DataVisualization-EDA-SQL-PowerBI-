@@ -4,6 +4,20 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Project Structure](#️-project-structure)
+- [Tech Stack](#️-tech-stack)
+- [Dashboard Pages](#-dashboard-pages)
+- [Data Pipeline](#️-data-pipeline)
+- [How to Run](#-how-to-run)
+- [Key Insights](#-key-insights)
+- [Author](#-author)
+- [License](#-license)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes bird species observation records collected across multiple national parks and habitats. It covers the complete data pipeline — from raw CSV ingestion and Python-based cleaning, through SQL storage, to multi-page Power BI visualizations.
@@ -139,8 +153,10 @@ python sql/load_data.py
 
 ## 👤 Author
 
-**Vikrant Sonawane**  
-Data Analytics Project | Python · PostgreSQL · Power BI
+**Vikrant Sonawane**
+- 📍 Kalyan, Maharashtra, India
+- 📧 vikrantsonawane24@gmail.com
+- 🔗 https://www.linkedin.com/in/vikrantsonawane24/
 
 ---
 
